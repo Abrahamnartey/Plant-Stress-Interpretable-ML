@@ -1,14 +1,3 @@
-Problem:
-Predict plant stress conditions from transcriptomic data using interpretable ML.
+This folder contains raw and processed data.
 
-Data:
-GEO: GSE5686 (Arabidopsis stress responses)
-
-Methods:
-Logistic Regression (L1), Random Forest, SHAP
-
-Results:
-Interpretable models achieve competitive accuracy and identify biologically relevant genes.
-
-Reproducibility:
-conda env create -f environment.yml
+Raw data are referenced by GEO accession IDs and are not stored here.
