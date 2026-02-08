@@ -12,6 +12,15 @@ Publicly available gene expression data from GEO:
 - Random Forest
 - SHAP for model interpretability
 
+## Analysis Workflow
+
+1. Data acquisition and preprocessing from GEO
+2. Exploratory data analysis and quality control
+3. Feature selection and normalization
+4. Model training and evaluation
+5. Model interpretation using SHAP
+6. Biological interpretation of key genes
+
 ## Results
 Interpretable models achieve competitive classification performance and identify biologically relevant stress-associated genes.
 
